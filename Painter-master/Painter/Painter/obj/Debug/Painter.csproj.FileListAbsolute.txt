@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\Painter-master\Painter\Painter\bin\Debug\Painter.exe.config
+C:\Users\ASUS\Desktop\Painter-master\Painter\Painter\bin\Debug\Painter.exe
+C:\Users\ASUS\Desktop\Painter-master\Painter\Painter\bin\Debug\Painter.pdb
+C:\Users\ASUS\Desktop\Painter-master\Painter\Painter\obj\Debug\Painter.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Painter-master\Painter\Painter\obj\Debug\Painter.Form1.resources
+C:\Users\ASUS\Desktop\Painter-master\Painter\Painter\obj\Debug\Painter.Form2.resources
+C:\Users\ASUS\Desktop\Painter-master\Painter\Painter\obj\Debug\Painter.Form3.resources
+C:\Users\ASUS\Desktop\Painter-master\Painter\Painter\obj\Debug\Painter.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Painter-master\Painter\Painter\obj\Debug\Painter.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Painter-master\Painter\Painter\obj\Debug\Painter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Painter-master\Painter\Painter\obj\Debug\Painter.exe
+C:\Users\ASUS\Desktop\Painter-master\Painter\Painter\obj\Debug\Painter.pdb
